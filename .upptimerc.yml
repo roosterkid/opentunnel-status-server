@@ -427,7 +427,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇮🇩 Indonesia IDB 1
+     - name: SSH 🇮🇩 Indonesia IDN 1
        url: http://ids-3.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
@@ -485,6 +485,20 @@ sites:
         - 500
      - name: SSH 🇯🇵 Japan JAP 1
        url: http://jas-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇦🇺 Australia AUG 1
+       url: http://au-ssh-game.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇸🇬 Singapore SGG 1
+       url: http://sg-ssh-game.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
        expectedStatusCodes:
