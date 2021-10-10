@@ -610,11 +610,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-singapore-sgd-1",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.45%",
     "time": 692,
     "timeDay": 509,
     "timeWeek": 781,
@@ -872,11 +872,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-united-states-uso-3",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.00%",
     "time": 182,
     "timeDay": 178,
     "timeWeek": 161,
@@ -1783,13 +1783,13 @@
     "slug": "ssh-united-states-usf-1",
     "status": "up",
     "uptime": "92.32%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "92.32%",
     "time": 179,
-    "timeDay": 117,
-    "timeWeek": 255,
+    "timeDay": 87,
+    "timeWeek": 258,
     "timeMonth": 293,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -2444,11 +2444,11 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-indonesia-ida-2",
     "status": "up",
-    "uptime": "92.74%",
+    "uptime": "92.78%",
     "uptimeDay": "85.70%",
-    "uptimeWeek": "92.74%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "92.74%",
+    "uptimeWeek": "92.78%",
+    "uptimeMonth": "92.78%",
+    "uptimeYear": "92.78%",
     "time": 517,
     "timeDay": 356,
     "timeWeek": 517,
@@ -2485,11 +2485,11 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-luxembourg-luf-1",
     "status": "up",
-    "uptime": "90.92%",
+    "uptime": "90.93%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "94.45%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "90.92%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "90.93%",
     "time": 229,
     "timeDay": 259,
     "timeWeek": 239,
@@ -2535,18 +2535,20 @@
     "url": "http://cas-2.opensvr.net:8080/",
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-canada-cao-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 117,
     "timeDay": 180,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 2
+    }
   },
   {
     "name": "SSH 🇯🇵 Japan JAP 1",
@@ -2583,7 +2585,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-10": 117
+      "2021-10-10": 139
     }
   },
   {
@@ -2603,7 +2605,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-10": 116
+      "2021-10-10": 138
     }
   },
   {
