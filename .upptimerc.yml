@@ -140,7 +140,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇺🇸 United States USO 1
+     - name: V2RAY 🇺🇸 United States USF 1
        url: https://usv-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -189,14 +189,14 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇺🇸 United States USO 2
+     - name: V2RAY 🇺🇸 United States USF 2
        url: https://usv-2.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇺🇸 United States USO 3
+     - name: V2RAY 🇺🇸 United States USF 3
        url: https://usv-3.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
