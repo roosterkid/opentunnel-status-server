@@ -1,7 +1,7 @@
 url: http://cas-2.opensvr.net:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-10-20T13:36:22.914Z
+status: up
+code: 400
+responseTime: 182
+lastUpdated: 2021-10-20T18:26:29.173Z
 startTime: Thu Oct 07 2021 15:18:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
