@@ -490,6 +490,20 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+     - name: SSH 🇸🇬 Singapore XSG 1
+       url: http://xs-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇸🇬 Singapore XSG 2
+       url: http://xs-2.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
      - name: SSH 🇨🇭 Switzerland CHI 1
        url: http://chs-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
