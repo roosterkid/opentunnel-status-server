@@ -1,7 +1,7 @@
 url: http://jas-1.opensvr.net:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-10-31T18:20:16.981Z
+status: up
+code: 400
+responseTime: 328
+lastUpdated: 2021-10-31T18:39:06.174Z
 startTime: Thu Oct 07 2021 15:18:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
