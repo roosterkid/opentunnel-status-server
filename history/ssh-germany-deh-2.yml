@@ -1,7 +1,7 @@
 url: http://des-2.opensvr.net:8080/
-status: up
+status: degraded
 code: 400
-responseTime: 204
-lastUpdated: 2021-11-10T23:13:56.226Z
+responseTime: 15903
+lastUpdated: 2021-11-11T15:41:08.053Z
 startTime: Sun May 30 2021 04:57:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
