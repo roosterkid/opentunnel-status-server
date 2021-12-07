@@ -1224,11 +1224,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-hong-kong-hkm-1",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.71%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 658,
     "timeDay": 624,
     "timeWeek": 612,
@@ -1805,9 +1805,9 @@
     "slug": "trojan-indonesia-idj-1",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "93.92%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "95.93%",
     "uptimeYear": "98.61%",
     "time": 1280,
     "timeDay": 1695,
@@ -1815,7 +1815,7 @@
     "timeMonth": 1138,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2021-12-06": 107,
+      "2021-12-06": 93,
       "2021-12-05": 66,
       "2021-12-04": 21,
       "2021-12-03": 87,
@@ -1854,7 +1854,7 @@
       "2021-10-25": 109,
       "2021-10-24": 299,
       "2021-10-23": 124,
-      "2021-10-22": 25
+      "2021-10-22": 46
     }
   },
   {
@@ -2792,7 +2792,7 @@
     "uptime": "94.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "94.58%",
     "time": 233,
     "timeDay": 197,
