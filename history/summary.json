@@ -1370,10 +1370,10 @@
     "url": "https://sgt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-singapore-sgv-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.93%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "97.91%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.55%",
     "time": 968,
@@ -1382,6 +1382,7 @@
     "timeMonth": 873,
     "timeYear": 968,
     "dailyMinutesDown": {
+      "2021-12-14": 2,
       "2021-12-13": 80,
       "2021-12-12": 33,
       "2021-12-11": 21,
@@ -1453,7 +1454,7 @@
       "2021-06-19": 19,
       "2021-06-18": 19,
       "2021-06-17": 24,
-      "2021-06-14": 73
+      "2021-06-14": 42
     }
   },
   {
@@ -1822,19 +1823,19 @@
     "url": "https://idt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-indonesia-idj-1",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "95.06%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "95.24%",
-    "uptimeYear": "98.63%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "94.95%",
+    "uptimeWeek": "94.07%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "98.64%",
     "time": 1265,
     "timeDay": 1359,
     "timeWeek": 958,
-    "timeMonth": 1082,
+    "timeMonth": 1086,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2021-12-14": 72,
+      "2021-12-14": 74,
       "2021-12-13": 61,
       "2021-12-12": 28,
       "2021-12-10": 39,
@@ -1876,7 +1877,7 @@
       "2021-10-30": 20,
       "2021-10-28": 127,
       "2021-10-27": 248,
-      "2021-10-26": 40
+      "2021-10-26": 19
     }
   },
   {
@@ -2996,7 +2997,7 @@
     "time": 437,
     "timeDay": 469,
     "timeWeek": 451,
-    "timeMonth": 428,
+    "timeMonth": 431,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2021-11-22": 51,
