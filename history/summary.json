@@ -220,7 +220,7 @@
     "uptime": "97.52%",
     "uptimeDay": "84.73%",
     "uptimeWeek": "97.09%",
-    "uptimeMonth": "98.65%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "97.52%",
     "time": 654,
     "timeDay": 643,
@@ -1388,10 +1388,10 @@
     "url": "https://sgt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-singapore-sgv-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.72%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "98.59%",
     "time": 966,
@@ -1400,6 +1400,7 @@
     "timeMonth": 853,
     "timeYear": 966,
     "dailyMinutesDown": {
+      "2021-12-20": 2,
       "2021-12-17": 19,
       "2021-12-16": 29,
       "2021-12-13": 80,
@@ -1471,8 +1472,7 @@
       "2021-06-26": 33,
       "2021-06-20": 16,
       "2021-06-19": 19,
-      "2021-06-18": 19,
-      "2021-06-17": 24
+      "2021-06-18": 19
     }
   },
   {
@@ -2651,7 +2651,7 @@
     "slug": "ssh-france-fro-2",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "81.86%",
+    "uptimeDay": "82.27%",
     "uptimeWeek": "78.83%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "98.87%",
@@ -3339,7 +3339,7 @@
     "slug": "ovpn-france-fro-1",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "83.32%",
+    "uptimeDay": "83.73%",
     "uptimeWeek": "80.15%",
     "uptimeMonth": "95.39%",
     "uptimeYear": "99.32%",
