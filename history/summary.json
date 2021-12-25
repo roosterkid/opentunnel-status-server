@@ -777,7 +777,7 @@
     "slug": "v2-ray-vietnam-vn-1",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "88.79%",
+    "uptimeDay": "89.84%",
     "uptimeWeek": "91.53%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "98.87%",
@@ -1418,18 +1418,19 @@
     "url": "https://sgt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-singapore-sgv-1",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.49%",
+    "status": "down",
+    "uptime": "98.61%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.48%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 962,
     "timeDay": 790,
     "timeWeek": 812,
     "timeMonth": 846,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2021-12-25": 2,
       "2021-12-22": 27,
       "2021-12-21": 23,
       "2021-12-20": 102,
@@ -1500,8 +1501,7 @@
       "2021-07-14": 44,
       "2021-07-12": 31,
       "2021-07-11": 26,
-      "2021-07-03": 27,
-      "2021-06-26": 33
+      "2021-07-03": 27
     }
   },
   {
