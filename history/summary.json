@@ -1482,10 +1482,10 @@
     "url": "https://sgt-2.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-singapore-sgp-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.51%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.77%",
     "time": 1276,
@@ -1494,6 +1494,7 @@
     "timeMonth": 874,
     "timeYear": 1276,
     "dailyMinutesDown": {
+      "2022-01-09": 2,
       "2022-01-06": 20,
       "2022-01-04": 131,
       "2021-12-31": 92,
@@ -1558,7 +1559,7 @@
       "2021-09-06": 24,
       "2021-09-05": 20,
       "2021-09-04": 50,
-      "2021-09-03": 67
+      "2021-09-03": 45
     }
   },
   {
@@ -3150,7 +3151,7 @@
     "uptimeYear": "99.85%",
     "time": 243,
     "timeDay": 211,
-    "timeWeek": 270,
+    "timeWeek": 262,
     "timeMonth": 245,
     "timeYear": 243,
     "dailyMinutesDown": {
