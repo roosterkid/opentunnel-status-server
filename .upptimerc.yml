@@ -28,8 +28,8 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: XRAY 🇸🇬 Singapore SGO 1
-       url: https://sgx-2.openv2ray.com/
+     - name: XRAY 🇫🇷 France FRO 1
+       url: https://frx-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -238,13 +238,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇩🇪 Germany DEH 2
-       url: https://dev-2.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/V2Ray-icon.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: V2RAY 🇭🇰 Hong Kong HKM 1
        url: https://hkv-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
@@ -324,6 +317,13 @@ sites:
         - 500
      - name: TROJAN 🇭🇰 Hong Kong HKE 1
        url: https://hkt-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/trojan.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+        - 500
+     - name: TROJAN 🇬🇧 United Kingdom UKO 1
+       url: https://ukt-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/trojan.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -420,7 +420,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇩🇪 Germany DEH 2
+     - name: SSH 🇩🇪 Germany DEO 2
        url: http://des-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
@@ -518,8 +518,8 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇸🇬 Singapore SGO 1
-       url: http://sgs-6.opensvr.net:8080/
+     - name: SSH 🇫🇷 France FRO 3
+       url: http://frs-3.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
        expectedStatusCodes:
