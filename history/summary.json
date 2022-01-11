@@ -1865,18 +1865,19 @@
     "url": "https://idt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-indonesia-idj-1",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "95.79%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "95.78%",
+    "uptimeYear": "98.82%",
     "time": 1247,
     "timeDay": 739,
     "timeWeek": 1520,
     "timeMonth": 1109,
     "timeYear": 1247,
     "dailyMinutesDown": {
+      "2022-01-11": 2,
       "2022-01-08": 128,
       "2022-01-07": 72,
       "2022-01-06": 65,
@@ -1917,8 +1918,7 @@
       "2021-11-25": 64,
       "2021-11-23": 56,
       "2021-11-22": 24,
-      "2021-11-21": 81,
-      "2021-11-20": 28
+      "2021-11-21": 81
     }
   },
   {
