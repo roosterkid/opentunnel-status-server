@@ -2055,19 +2055,19 @@
     "url": "https://ukt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-kingdom-uko-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 330,
-    "timeDay": 267,
-    "timeWeek": 292,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 327,
+    "timeDay": 266,
+    "timeWeek": 289,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-02-03": 2
+      "2022-02-03": 11
     }
   },
   {
