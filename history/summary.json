@@ -1484,18 +1484,17 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-singapore-sgv-1",
     "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.23%",
     "time": 1020,
     "timeDay": 901,
     "timeWeek": 1297,
     "timeMonth": 1114,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2022-02-03": 12,
       "2022-01-30": 37,
       "2022-01-22": 15,
       "2022-01-18": 47,
@@ -1564,7 +1563,8 @@
       "2021-08-24": 20,
       "2021-08-19": 16,
       "2021-08-18": 91,
-      "2021-08-17": 94
+      "2021-08-17": 94,
+      "2021-08-16": 22
     }
   },
   {
@@ -1752,7 +1752,7 @@
     "uptimeYear": "98.36%",
     "time": 617,
     "timeDay": 504,
-    "timeWeek": 479,
+    "timeWeek": 504,
     "timeMonth": 513,
     "timeYear": 617,
     "dailyMinutesDown": {
@@ -1879,7 +1879,7 @@
     "time": 831,
     "timeDay": 647,
     "timeWeek": 672,
-    "timeMonth": 833,
+    "timeMonth": 836,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2022-02-03": 73,
@@ -1964,18 +1964,19 @@
     "url": "https://idt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-indonesia-idj-1",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "98.97%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "95.72%",
+    "uptimeYear": "98.98%",
     "time": 1250,
     "timeDay": 1802,
     "timeWeek": 1003,
     "timeMonth": 1330,
     "timeYear": 1250,
     "dailyMinutesDown": {
+      "2022-02-03": 2,
       "2022-02-01": 38,
       "2022-01-31": 64,
       "2022-01-30": 67,
@@ -2016,8 +2017,7 @@
       "2021-12-15": 83,
       "2021-12-14": 72,
       "2021-12-13": 61,
-      "2021-12-12": 28,
-      "2021-12-10": 39
+      "2021-12-12": 28
     }
   },
   {
