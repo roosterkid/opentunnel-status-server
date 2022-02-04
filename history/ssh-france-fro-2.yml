@@ -1,7 +1,7 @@
 url: http://frs-2.opensvr.net:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-02-04T18:18:15.802Z
+status: up
+code: 400
+responseTime: 224
+lastUpdated: 2022-02-04T18:31:00.562Z
 startTime: Tue Jun 29 2021 02:08:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
