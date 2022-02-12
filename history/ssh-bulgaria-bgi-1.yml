@@ -1,7 +1,7 @@
 url: http://bgs-1.opensvr.net:8080/
-status: up
-code: 400
-responseTime: 249
-lastUpdated: 2022-02-11T23:14:01.064Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-02-12T17:22:37.113Z
 startTime: Sat Aug 28 2021 05:50:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
