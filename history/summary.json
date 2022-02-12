@@ -617,11 +617,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-singapore-sgl-1",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "98.15%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 677,
     "timeDay": 738,
     "timeWeek": 671,
@@ -1900,10 +1900,10 @@
     "url": "https://sgt-3.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-singapore-sga-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.37%",
     "time": 829,
@@ -1912,6 +1912,7 @@
     "timeMonth": 785,
     "timeYear": 829,
     "dailyMinutesDown": {
+      "2022-02-12": 2,
       "2022-02-11": 52,
       "2022-02-10": 30,
       "2022-02-07": 26,
@@ -1984,8 +1985,7 @@
       "2021-07-24": 53,
       "2021-07-23": 63,
       "2021-07-19": 23,
-      "2021-07-16": 28,
-      "2021-07-15": 27
+      "2021-07-16": 28
     }
   },
   {
