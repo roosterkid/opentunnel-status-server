@@ -42,13 +42,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: XRAY 🇿🇦 South Africa ZAP 1
-       url: https://zax-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/xray.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: XRAY 🇰🇷 South Korea KRP 1
        url: https://krx-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
@@ -254,6 +247,13 @@ sites:
         - 500
      - name: V2RAY 🇮🇩 Indonesia IDA 2
        url: https://idv-3.openv2ray.com/
+       icon: https://opentunnel.net/assets/img/V2Ray-icon.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+        - 500
+     - name: V2RAY 🇻🇳 Vietnam VN 2
+       url: https://vnv-2.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -567,7 +567,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇸🇬 Singapore SGD 1
+     - name: OVPN 🇸🇬 Singapore SGC 1
        url: http://sgo-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
@@ -595,7 +595,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇸🇬 Singapore SGD 2
+     - name: OVPN 🇸🇬 Singapore SGP 2
        url: http://sgo-3.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
