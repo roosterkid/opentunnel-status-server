@@ -742,7 +742,7 @@
     "url": "https://jpt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-japan-jpp-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -787,7 +787,7 @@
     "time": 819,
     "timeDay": 644,
     "timeWeek": 709,
-    "timeMonth": 706,
+    "timeMonth": 702,
     "timeYear": 819,
     "dailyMinutesDown": {}
   },
@@ -1201,7 +1201,7 @@
     "time": 103,
     "timeDay": 117,
     "timeWeek": 61,
-    "timeMonth": 75,
+    "timeMonth": 76,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
