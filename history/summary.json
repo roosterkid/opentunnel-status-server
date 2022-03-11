@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 751,
     "timeDay": 597,
-    "timeWeek": 669,
+    "timeWeek": 671,
     "timeMonth": 707,
     "timeYear": 751,
     "dailyMinutesDown": {}
@@ -670,7 +670,7 @@
     "url": "https://sgt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-singapore-sgv-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -679,7 +679,7 @@
     "time": 1045,
     "timeDay": 772,
     "timeWeek": 810,
-    "timeMonth": 1246,
+    "timeMonth": 1251,
     "timeYear": 1045,
     "dailyMinutesDown": {}
   },
@@ -804,8 +804,8 @@
     "uptimeYear": "100.00%",
     "time": 1258,
     "timeDay": 790,
-    "timeWeek": 1056,
-    "timeMonth": 1314,
+    "timeWeek": 1069,
+    "timeMonth": 1307,
     "timeYear": 1258,
     "dailyMinutesDown": {}
   },
@@ -821,8 +821,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 770,
-    "timeDay": 583,
-    "timeWeek": 804,
+    "timeDay": 552,
+    "timeWeek": 758,
     "timeMonth": 697,
     "timeYear": 770,
     "dailyMinutesDown": {}
