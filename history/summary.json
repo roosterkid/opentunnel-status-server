@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 631,
-    "timeWeek": 598,
+    "timeWeek": 602,
     "timeMonth": 588,
     "timeYear": 641,
     "dailyMinutesDown": {}
@@ -227,7 +227,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 645,
+    "timeDay": 632,
     "timeWeek": 675,
     "timeMonth": 706,
     "timeYear": 752,
@@ -678,7 +678,7 @@
     "uptimeYear": "100.00%",
     "time": 1045,
     "timeDay": 772,
-    "timeWeek": 807,
+    "timeWeek": 802,
     "timeMonth": 1246,
     "timeYear": 1045,
     "dailyMinutesDown": {}
@@ -697,7 +697,7 @@
     "time": 1232,
     "timeDay": 704,
     "timeWeek": 1050,
-    "timeMonth": 1068,
+    "timeMonth": 1073,
     "timeYear": 1232,
     "dailyMinutesDown": {}
   },
@@ -805,7 +805,7 @@
     "time": 1258,
     "timeDay": 790,
     "timeWeek": 1162,
-    "timeMonth": 1307,
+    "timeMonth": 1310,
     "timeYear": 1258,
     "dailyMinutesDown": {}
   },
@@ -814,7 +814,7 @@
     "url": "https://hkt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-hong-kong-hke-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
