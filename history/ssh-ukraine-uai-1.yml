@@ -1,7 +1,7 @@
 url: http://uas-1.opensvr.net:8080/
-status: up
-code: 400
-responseTime: 304
-lastUpdated: 2022-03-13T23:17:17.470Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-03-14T17:21:38.288Z
 startTime: Sat Aug 28 2021 05:50:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
