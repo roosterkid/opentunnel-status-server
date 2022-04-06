@@ -1,7 +1,7 @@
 url: http://fro-1.opensvr.net:8080/
-status: degraded
+status: up
 code: 400
-responseTime: 11466
-lastUpdated: 2022-04-06T08:35:41.577Z
+responseTime: 187
+lastUpdated: 2022-04-06T08:49:52.715Z
 startTime: Tue Apr 20 2021 17:07:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
