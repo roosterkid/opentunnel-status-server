@@ -1,7 +1,7 @@
 url: https://usv-4.openv2ray.com/
-status: up
+status: degraded
 code: 200
-responseTime: 4586
-lastUpdated: 2022-04-20T23:18:24.595Z
+responseTime: 11968
+lastUpdated: 2022-04-20T23:32:04.248Z
 startTime: Mon May 03 2021 03:05:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
