@@ -1,7 +1,7 @@
 url: http://lus-1.opensvr.net:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-04-28T17:32:15.149Z
+status: up
+code: 400
+responseTime: 331
+lastUpdated: 2022-04-28T17:49:07.984Z
 startTime: Fri Sep 24 2021 12:32:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
