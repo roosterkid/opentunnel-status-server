@@ -21,14 +21,14 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-     - name: XRAY 🇸🇬 Singapore SGL 1
+     - name: XRAY 🇸🇬 Singapore SGO 1
        url: https://sgx-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
-     - name: XRAY 🇫🇷 France FRO 1
+     - name: XRAY 🇫🇷 France FRF 1
        url: https://frx-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
        maxResponseTime: 5000
@@ -37,13 +37,6 @@ sites:
         - 500
      - name: XRAY 🇺🇸 United States USF 1
        url: https://usx-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/xray.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
-     - name: XRAY 🇰🇷 South Korea KRP 1
-       url: https://krx-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -63,20 +56,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: XRAY 🇯🇵 Japan JPP 1
-       url: https://jpx-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/xray.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
-     - name: XRAY 🇧🇷 Brazil BRP 1
-       url: https://brx-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/xray.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: XRAY 🇷🇺 Russia RUL 1
        url: https://rux-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
@@ -86,13 +65,6 @@ sites:
         - 500
      - name: XRAY 🇸🇬 Singapore SGD 1
        url: https://sgx-3.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/xray.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
-     - name: XRAY 🇮🇳 India IND 1
-       url: https://inx-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -119,7 +91,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGP 1
+     - name: V2RAY 🇸🇬 Singapore SGO 1
        url: https://sgv-2.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -147,7 +119,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGO 1
+     - name: V2RAY 🇸🇬 Singapore SGO 2
        url: https://sgv-4.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -161,7 +133,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGV 1
+     - name: V2RAY 🇸🇬 Singapore SGO 4
        url: https://sgv-5.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -203,7 +175,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGO 2
+     - name: V2RAY 🇸🇬 Singapore SGO 3
        url: https://sgv-6.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -238,7 +210,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇺🇸 United States USP 4
+     - name: V2RAY 🇺🇸 United States USO 1
        url: https://usv-4.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -266,7 +238,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: TROJAN 🇸🇬 Singapore SGP 1
+     - name: TROJAN 🇸🇬 Singapore SGO 1
        url: https://sgt-2.opensvr.net/
        icon: https://opentunnel.net/assets/img/trojan.png
        maxResponseTime: 5000
@@ -282,13 +254,6 @@ sites:
         - 500
      - name: TROJAN 🇳🇱 Netherlands NLB 1
        url: https://nlt-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/trojan.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
-     - name: TROJAN 🇯🇵 Japan JPP 1
-       url: https://jpt-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/trojan.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -329,7 +294,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: SSH 🇸🇬 Singapore SGP 1
+     - name: SSH 🇸🇬 Singapore SGA 1
        url: http://sgs-4.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
@@ -357,7 +322,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇸🇬 Singapore SGP 2
+     - name: SSH 🇸🇬 Singapore SGO 1
        url: http://sgs-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
@@ -371,7 +336,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇸🇬 Singapore SGL 1
+     - name: SSH 🇸🇬 Singapore SGO 2
        url: http://sgs-3.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
@@ -490,13 +455,6 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇯🇵 Japan JAP 1
-       url: http://jas-1.opensvr.net:8080/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
      - name: SSH 🇸🇬 Singapore XSG 1
        url: http://xs-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
@@ -518,8 +476,15 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇫🇷 France FRO 3
+     - name: SSH 🇫🇷 France FRF 1
        url: http://frs-3.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: SSH 🇺🇸 United States USO 1
+       url: http://uss-4.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -553,7 +518,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: OVPN 🇸🇬 Singapore SGP 1
+     - name: OVPN 🇸🇬 Singapore SGA 1
        url: http://sgo-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
@@ -581,6 +546,13 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
+     - name: OVPN 🇬🇧 United Kingdom UKO 1
+       url: http://uko-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/openvpn.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
      - name: OVPN 🇫🇷 France FRO 1
        url: http://fro-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
@@ -595,7 +567,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇸🇬 Singapore SGP 2
+     - name: OVPN 🇸🇬 Singapore SGA 2
        url: http://sgo-3.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
@@ -604,6 +576,13 @@ sites:
         - 500
      - name: OVPN 🇮🇩 Indonesia IDJ 1
        url: http://ido-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/openvpn.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: OVPN 🇨🇦 Canada CAO 1
+       url: http://cao-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
