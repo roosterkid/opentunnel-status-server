@@ -1,7 +1,7 @@
 url: https://hkv-1.openv2ray.com/
-status: up
+status: degraded
 code: 200
-responseTime: 662
-lastUpdated: 2022-06-22T23:14:44.740Z
+responseTime: 11323
+lastUpdated: 2022-06-23T18:54:19.967Z
 startTime: Tue Apr 20 2021 17:06:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
