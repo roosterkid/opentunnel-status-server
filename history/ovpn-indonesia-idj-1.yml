@@ -1,7 +1,7 @@
 url: http://ido-1.opensvr.net:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-08-11T18:31:31.125Z
+status: up
+code: 400
+responseTime: 397
+lastUpdated: 2022-08-11T18:55:39.916Z
 startTime: Tue Jun 29 2021 02:09:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
