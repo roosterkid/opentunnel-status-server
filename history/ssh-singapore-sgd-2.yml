@@ -1,7 +1,7 @@
 url: http://sgs-1.opensvr.net:8080/
-status: up
-code: 400
-responseTime: 399
-lastUpdated: 2022-08-20T23:14:44.746Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-08-21T17:13:03.446Z
 startTime: Sun Aug 22 2021 02:37:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
