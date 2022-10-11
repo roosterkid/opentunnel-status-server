@@ -92,43 +92,43 @@ sites:
         - 200
         - 500
      - name: WG 🇺🇸 United States USF 1
-       url: https://wg-us-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/xray.png
+       url: http://wg-us-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/wireguard.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
      - name: WG 🇮🇩 Indonesia IDA 1
-       url: https://wg-id-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/xray.png
+       url: http://wg-id-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/wireguard.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
      - name: WG 🇸🇬 Singapore SGO 1
-       url: https://wg-sg-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/xray.png
+       url: http://wg-sg-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/wireguard.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
      - name: WG 🇮🇩 Indonesia IDJ 1
-       url: https://wg-id-2.opensvr.net/
-       icon: https://opentunnel.net/assets/img/xray.png
+       url: http://wg-id-2.opensvr.net/
+       icon: https://opentunnel.net/assets/img/wireguard.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
      - name: WG 🇸🇬 Singapore SGC 1
-       url: https://wg-sg-2.opensvr.net/
-       icon: https://opentunnel.net/assets/img/xray.png
+       url: http://wg-sg-2.opensvr.net/
+       icon: https://opentunnel.net/assets/img/wireguard.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
      - name: WG 🇫🇷 France FRF 1
-       url: https://wg-fr-1.opensvr.net/
-       icon: https://opentunnel.net/assets/img/xray.png
+       url: http://wg-fr-1.opensvr.net/
+       icon: https://opentunnel.net/assets/img/wireguard.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
