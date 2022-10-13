@@ -119,8 +119,7 @@
       "2021-12-15": 29,
       "2021-12-08": 24,
       "2021-12-03": 18,
-      "2021-11-22": 24,
-      "2021-10-13": 64
+      "2021-11-22": 24
     }
   },
   {
@@ -349,8 +348,7 @@
       "2021-11-24": 28,
       "2021-11-20": 17,
       "2021-11-19": 102,
-      "2021-10-23": 17,
-      "2021-10-13": 468
+      "2021-10-23": 17
     }
   },
   {
@@ -359,10 +357,10 @@
     "icon": "https://opentunnel.net/assets/img/xray.png",
     "slug": "xray-russia-rul-1",
     "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "55.70%",
-    "uptimeWeek": "92.40%",
-    "uptimeMonth": "98.13%",
+    "uptime": "97.25%",
+    "uptimeDay": "54.18%",
+    "uptimeWeek": "92.19%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "96.17%",
     "time": 622,
     "timeDay": 0,
@@ -370,7 +368,8 @@
     "timeMonth": 676,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-10-12": 638,
+      "2022-10-13": 2,
+      "2022-10-12": 658,
       "2022-10-10": 28,
       "2022-10-09": 17,
       "2022-10-08": 65,
@@ -599,8 +598,7 @@
       "2022-02-17": 74,
       "2022-02-16": 0,
       "2021-11-27": 28,
-      "2021-10-25": 151,
-      "2021-10-13": 64
+      "2021-10-25": 151
     }
   },
   {
@@ -609,11 +607,11 @@
     "icon": "https://opentunnel.net/assets/img/xray.png",
     "slug": "xray-united-kingdom-uko-1",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.52%",
     "uptimeDay": "98.56%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "97.49%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
     "time": 450,
     "timeDay": 301,
     "timeWeek": 450,
@@ -630,11 +628,11 @@
     "icon": "https://opentunnel.net/assets/img/wireguard.png",
     "slug": "wg-united-states-usf-1",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 178,
     "timeDay": 217,
     "timeWeek": 178,
@@ -690,11 +688,11 @@
     "icon": "https://opentunnel.net/assets/img/wireguard.png",
     "slug": "wg-indonesia-idj-1",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 487,
     "timeDay": 535,
     "timeWeek": 487,
@@ -850,8 +848,7 @@
       "2022-03-16": 30,
       "2022-02-10": 31,
       "2022-01-08": 27,
-      "2021-12-27": 24,
-      "2021-10-13": 63
+      "2021-12-27": 24
     }
   },
   {
@@ -898,8 +895,7 @@
       "2021-11-22": 21,
       "2021-11-19": 33,
       "2021-10-18": 122,
-      "2021-10-17": 1302,
-      "2021-10-13": 467
+      "2021-10-17": 1302
     }
   },
   {
@@ -1034,8 +1030,7 @@
       "2021-11-09": 22,
       "2021-11-01": 30,
       "2021-10-26": 22,
-      "2021-10-14": 70,
-      "2021-10-13": 113
+      "2021-10-14": 70
     }
   },
   {
@@ -1085,8 +1080,7 @@
       "2021-11-27": 22,
       "2021-11-13": 29,
       "2021-11-01": 29,
-      "2021-10-23": 64,
-      "2021-10-13": 63
+      "2021-10-23": 64
     }
   },
   {
@@ -1152,8 +1146,7 @@
       "2021-11-01": 26,
       "2021-10-24": 43,
       "2021-10-16": 125,
-      "2021-10-15": 103,
-      "2021-10-13": 45
+      "2021-10-15": 103
     }
   },
   {
@@ -1453,19 +1446,20 @@
     "url": "https://sgv-6.openv2ray.com/",
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-singapore-sgo-3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "69.51%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "70.35%",
+    "uptimeWeek": "94.67%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "98.42%",
     "time": 769,
-    "timeDay": 1063,
+    "timeDay": 1162,
     "timeWeek": 859,
     "timeMonth": 979,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2022-10-12": 423,
+      "2022-10-13": 3,
+      "2022-10-12": 424,
       "2022-10-11": 112,
       "2022-10-05": 84,
       "2022-09-25": 26,
@@ -1773,8 +1767,7 @@
       "2021-12-02": 277,
       "2021-11-27": 288,
       "2021-11-22": 21,
-      "2021-11-19": 32,
-      "2021-10-13": 467
+      "2021-11-19": 32
     }
   },
   {
@@ -2012,11 +2005,11 @@
     "url": "https://det-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-germany-deh-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "78.16%",
-    "uptimeWeek": "72.33%",
-    "uptimeMonth": "87.10%",
+    "uptimeDay": "79.41%",
+    "uptimeWeek": "72.51%",
+    "uptimeMonth": "87.09%",
     "uptimeYear": "97.84%",
     "time": 447,
     "timeDay": 1877,
@@ -2024,6 +2017,7 @@
     "timeMonth": 953,
     "timeYear": 473,
     "dailyMinutesDown": {
+      "2022-10-13": 3,
       "2022-10-12": 296,
       "2022-10-11": 409,
       "2022-10-10": 337,
@@ -2144,11 +2138,11 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-canada-cao-1",
     "status": "up",
-    "uptime": "95.36%",
+    "uptime": "95.41%",
     "uptimeDay": "95.28%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "95.36%",
-    "uptimeYear": "95.36%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "95.41%",
+    "uptimeYear": "95.41%",
     "time": 690,
     "timeDay": 573,
     "timeWeek": 690,
@@ -2375,19 +2369,19 @@
     "url": "https://hkt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-hong-kong-hke-1",
-    "status": "down",
+    "status": "up",
     "uptime": "93.93%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "26.05%",
-    "uptimeMonth": "41.37%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "25.88%",
+    "uptimeMonth": "41.33%",
     "uptimeYear": "93.93%",
     "time": 720,
-    "timeDay": 583,
-    "timeWeek": 1063,
+    "timeDay": 650,
+    "timeWeek": 1032,
     "timeMonth": 710,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2022-10-12": 19,
+      "2022-10-12": 37,
       "2022-10-11": 874,
       "2022-10-10": 1326,
       "2022-10-09": 1396,
@@ -2507,11 +2501,11 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-kingdom-uko-2",
     "status": "up",
-    "uptime": "93.28%",
+    "uptime": "93.36%",
     "uptimeDay": "97.42%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "93.28%",
+    "uptimeWeek": "93.36%",
+    "uptimeMonth": "93.36%",
+    "uptimeYear": "93.36%",
     "time": 889,
     "timeDay": 357,
     "timeWeek": 889,
@@ -2527,24 +2521,23 @@
     "url": "https://ust-2.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-states-uso-1",
-    "status": "down",
+    "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "80.95%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.71%",
-    "time": 495,
-    "timeDay": 239,
-    "timeWeek": 1131,
-    "timeMonth": 1131,
-    "timeYear": 652,
+    "uptimeDay": "79.75%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.70%",
+    "time": 497,
+    "timeDay": 248,
+    "timeWeek": 1068,
+    "timeMonth": 1068,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2022-10-12": 275,
+      "2022-10-12": 292,
       "2022-10-11": 249,
       "2021-10-19": 164,
       "2021-10-18": 795,
-      "2021-10-14": 24,
-      "2021-10-13": 27
+      "2021-10-14": 24
     }
   },
   {
@@ -2553,18 +2546,19 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-singapore-sga-1",
     "status": "down",
-    "uptime": "92.10%",
-    "uptimeDay": "60.26%",
+    "uptime": "92.09%",
+    "uptimeDay": "58.74%",
     "uptimeWeek": "14.05%",
-    "uptimeMonth": "73.76%",
-    "uptimeYear": "92.10%",
+    "uptimeMonth": "73.71%",
+    "uptimeYear": "92.09%",
     "time": 440,
     "timeDay": 484,
     "timeWeek": 484,
     "timeMonth": 425,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-10-12": 572,
+      "2022-10-13": 4,
+      "2022-10-12": 590,
       "2022-10-11": 874,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
@@ -3055,8 +3049,7 @@
       "2022-01-08": 23,
       "2021-12-02": 702,
       "2021-12-01": 75,
-      "2021-11-18": 19,
-      "2021-10-13": 62
+      "2021-11-18": 19
     }
   },
   {
@@ -3105,8 +3098,7 @@
       "2021-11-13": 17,
       "2021-10-29": 23,
       "2021-10-21": 16,
-      "2021-10-17": 16,
-      "2021-10-13": 62
+      "2021-10-17": 16
     }
   },
   {
@@ -3304,8 +3296,7 @@
       "2021-10-25": 33,
       "2021-10-19": 234,
       "2021-10-18": 260,
-      "2021-10-17": 244,
-      "2021-10-13": 20
+      "2021-10-17": 244
     }
   },
   {
@@ -3547,8 +3538,7 @@
       "2021-12-14": 349,
       "2021-12-07": 16,
       "2021-12-05": 20,
-      "2021-10-15": 18,
-      "2021-10-13": 77
+      "2021-10-15": 18
     }
   },
   {
@@ -3623,8 +3613,7 @@
       "2021-11-10": 16,
       "2021-10-30": 34,
       "2021-10-22": 35,
-      "2021-10-16": 18,
-      "2021-10-13": 23
+      "2021-10-16": 18
     }
   },
   {
@@ -3833,8 +3822,7 @@
       "2021-10-20": 16,
       "2021-10-18": 233,
       "2021-10-15": 94,
-      "2021-10-14": 100,
-      "2021-10-13": 20
+      "2021-10-14": 100
     }
   },
   {
@@ -3973,8 +3961,7 @@
       "2021-10-22": 410,
       "2021-10-21": 332,
       "2021-10-16": 134,
-      "2021-10-15": 345,
-      "2021-10-13": 19
+      "2021-10-15": 345
     }
   },
   {
@@ -4137,8 +4124,7 @@
       "2021-10-19": 231,
       "2021-10-18": 15,
       "2021-10-17": 251,
-      "2021-10-16": 83,
-      "2021-10-13": 61
+      "2021-10-16": 83
     }
   },
   {
@@ -4405,11 +4391,11 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-france-frf-1",
     "status": "up",
-    "uptime": "91.63%",
+    "uptime": "91.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.39%",
     "uptimeMonth": "98.67%",
-    "uptimeYear": "91.63%",
+    "uptimeYear": "91.64%",
     "time": 268,
     "timeDay": 186,
     "timeWeek": 230,
@@ -4500,11 +4486,11 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-australia-auo-1",
     "status": "up",
-    "uptime": "50.81%",
-    "uptimeDay": "55.08%",
-    "uptimeWeek": "50.81%",
-    "uptimeMonth": "50.81%",
-    "uptimeYear": "50.81%",
+    "uptime": "51.35%",
+    "uptimeDay": "56.60%",
+    "uptimeWeek": "51.35%",
+    "uptimeMonth": "51.35%",
+    "uptimeYear": "51.35%",
     "time": 417,
     "timeDay": 415,
     "timeWeek": 417,
@@ -4745,8 +4731,7 @@
       "2021-11-20": 23,
       "2021-10-25": 16,
       "2021-10-24": 83,
-      "2021-10-14": 280,
-      "2021-10-13": 56
+      "2021-10-14": 280
     }
   },
   {
@@ -4773,11 +4758,11 @@
     "icon": "https://opentunnel.net/assets/img/ppp.png",
     "slug": "pptp-canada-cao-1",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
     "time": 71,
     "timeDay": 55,
     "timeWeek": 71,
@@ -4811,18 +4796,19 @@
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-singapore-sga-1",
     "status": "down",
-    "uptime": "92.53%",
-    "uptimeDay": "60.21%",
+    "uptime": "92.51%",
+    "uptimeDay": "58.68%",
     "uptimeWeek": "14.06%",
-    "uptimeMonth": "74.57%",
-    "uptimeYear": "92.53%",
+    "uptimeMonth": "74.52%",
+    "uptimeYear": "92.51%",
     "time": 430,
     "timeDay": 439,
     "timeWeek": 439,
     "timeMonth": 413,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2022-10-12": 573,
+      "2022-10-13": 6,
+      "2022-10-12": 589,
       "2022-10-11": 874,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
@@ -4942,8 +4928,7 @@
       "2021-11-05": 53,
       "2021-11-03": 31,
       "2021-10-25": 179,
-      "2021-10-24": 125,
-      "2021-10-13": 61
+      "2021-10-24": 125
     }
   },
   {
@@ -5031,8 +5016,7 @@
       "2021-12-14": 310,
       "2021-11-25": 20,
       "2021-11-10": 16,
-      "2021-11-01": 19,
-      "2021-10-13": 60
+      "2021-11-01": 19
     }
   },
   {
@@ -5072,18 +5056,19 @@
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-singapore-sga-2",
     "status": "down",
-    "uptime": "92.51%",
-    "uptimeDay": "60.22%",
+    "uptime": "92.50%",
+    "uptimeDay": "58.70%",
     "uptimeWeek": "14.06%",
-    "uptimeMonth": "74.57%",
-    "uptimeYear": "92.51%",
+    "uptimeMonth": "74.52%",
+    "uptimeYear": "92.50%",
     "time": 420,
     "timeDay": 478,
     "timeWeek": 478,
     "timeMonth": 415,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2022-10-12": 573,
+      "2022-10-13": 6,
+      "2022-10-12": 589,
       "2022-10-11": 874,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
