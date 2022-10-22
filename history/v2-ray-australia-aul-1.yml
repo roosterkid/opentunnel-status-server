@@ -1,7 +1,7 @@
 url: https://auv-1.openv2ray.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-10-22T15:12:11.517Z
+status: up
+code: 200
+responseTime: 557
+lastUpdated: 2022-10-22T15:41:39.810Z
 startTime: Tue Apr 20 2021 17:06:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
