@@ -1,7 +1,7 @@
 url: https://ust-1.opensvr.net/
-status: up
+status: degraded
 code: 200
-responseTime: 268
-lastUpdated: 2022-10-23T23:21:57.205Z
+responseTime: 10441
+lastUpdated: 2022-10-24T03:11:04.381Z
 startTime: Tue Oct 19 2021 15:49:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
