@@ -1,7 +1,7 @@
 url: https://sgt-2.opensvr.net/
-status: up
+status: degraded
 code: 200
-responseTime: 652
-lastUpdated: 2022-11-01T23:19:07.788Z
+responseTime: 8090
+lastUpdated: 2022-11-02T06:58:50.457Z
 startTime: Wed Jun 15 2022 17:05:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
