@@ -398,8 +398,7 @@
       "2021-12-02": 278,
       "2021-11-27": 289,
       "2021-11-24": 28,
-      "2021-11-20": 17,
-      "2021-11-19": 102
+      "2021-11-20": 17
     }
   },
   {
@@ -475,13 +474,13 @@
     "icon": "https://opentunnel.net/assets/img/xray.png",
     "slug": "xray-singapore-sgd-1",
     "status": "up",
-    "uptime": "94.79%",
+    "uptime": "94.80%",
     "uptimeDay": "98.78%",
     "uptimeWeek": "94.23%",
     "uptimeMonth": "91.78%",
     "uptimeYear": "91.77%",
     "time": 744,
-    "timeDay": 992,
+    "timeDay": 1199,
     "timeWeek": 843,
     "timeMonth": 868,
     "timeYear": 749,
@@ -692,11 +691,11 @@
     "icon": "https://opentunnel.net/assets/img/xray.png",
     "slug": "xray-united-kingdom-uko-1",
     "status": "up",
-    "uptime": "91.17%",
+    "uptime": "91.18%",
     "uptimeDay": "94.58%",
     "uptimeWeek": "98.28%",
     "uptimeMonth": "91.82%",
-    "uptimeYear": "91.17%",
+    "uptimeYear": "91.18%",
     "time": 586,
     "timeDay": 1149,
     "timeWeek": 482,
@@ -1035,8 +1034,7 @@
       "2021-12-17": 34,
       "2021-12-02": 277,
       "2021-11-27": 289,
-      "2021-11-22": 21,
-      "2021-11-19": 33
+      "2021-11-22": 21
     }
   },
   {
@@ -1478,18 +1476,19 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-united-states-usf-3",
     "status": "up",
-    "uptime": "96.74%",
+    "uptime": "96.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.55%",
-    "uptimeYear": "96.41%",
+    "uptimeMonth": "67.40%",
+    "uptimeYear": "96.40%",
     "time": 169,
     "timeDay": 67,
     "timeWeek": 196,
     "timeMonth": 185,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-11-18": 1419,
+      "2022-11-19": 42,
+      "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -1526,18 +1525,19 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-indonesia-idg-1",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.15%",
-    "uptimeMonth": "91.96%",
-    "uptimeYear": "98.02%",
+    "uptimeWeek": "65.52%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "98.01%",
     "time": 761,
     "timeDay": 754,
     "timeWeek": 835,
     "timeMonth": 760,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2022-11-18": 1419,
+      "2022-11-19": 42,
+      "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 553,
       "2022-11-09": 24,
@@ -2002,8 +2002,7 @@
       "2021-12-15": 389,
       "2021-12-02": 277,
       "2021-11-27": 288,
-      "2021-11-22": 21,
-      "2021-11-19": 32
+      "2021-11-22": 21
     }
   },
   {
@@ -2273,18 +2272,19 @@
     "url": "https://nlt-1.opensvr.net/",
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-netherlands-nlb-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "83.99%",
-    "uptimeWeek": "91.59%",
-    "uptimeMonth": "87.81%",
-    "uptimeYear": "98.98%",
-    "time": 776,
+    "uptimeDay": "83.64%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "87.91%",
+    "uptimeYear": "98.99%",
+    "time": 777,
     "timeDay": 345,
     "timeWeek": 1243,
     "timeMonth": 1201,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2022-11-19": 5,
       "2022-11-18": 231,
       "2022-11-16": 72,
       "2022-11-15": 227,
@@ -2307,7 +2307,7 @@
       "2022-10-29": 354,
       "2022-10-28": 63,
       "2022-10-27": 294,
-      "2022-10-26": 85
+      "2022-10-26": 39
     }
   },
   {
@@ -2316,11 +2316,11 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-canada-cao-1",
     "status": "up",
-    "uptime": "91.10%",
+    "uptime": "91.11%",
     "uptimeDay": "93.35%",
     "uptimeWeek": "90.68%",
     "uptimeMonth": "88.77%",
-    "uptimeYear": "91.10%",
+    "uptimeYear": "91.11%",
     "time": 1286,
     "timeDay": 1691,
     "timeWeek": 1271,
@@ -2546,7 +2546,7 @@
     "status": "up",
     "uptime": "96.35%",
     "uptimeDay": "67.70%",
-    "uptimeWeek": "48.41%",
+    "uptimeWeek": "49.03%",
     "uptimeMonth": "55.86%",
     "uptimeYear": "96.32%",
     "time": 726,
@@ -2639,11 +2639,11 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-kingdom-uko-2",
     "status": "up",
-    "uptime": "86.33%",
+    "uptime": "86.35%",
     "uptimeDay": "93.02%",
     "uptimeWeek": "92.12%",
     "uptimeMonth": "83.58%",
-    "uptimeYear": "86.33%",
+    "uptimeYear": "86.35%",
     "time": 1539,
     "timeDay": 1527,
     "timeWeek": 1843,
@@ -3287,8 +3287,7 @@
       "2022-01-05": 336,
       "2022-01-02": 19,
       "2021-12-19": 24,
-      "2021-11-23": 23,
-      "2021-11-19": 22
+      "2021-11-23": 23
     }
   },
   {
@@ -3399,8 +3398,7 @@
       "2021-12-01": 26,
       "2021-11-26": 17,
       "2021-11-24": 17,
-      "2021-11-23": 17,
-      "2021-11-19": 17
+      "2021-11-23": 17
     }
   },
   {
@@ -3479,8 +3477,7 @@
       "2021-11-27": 301,
       "2021-11-22": 21,
       "2021-11-21": 17,
-      "2021-11-20": 39,
-      "2021-11-19": 32
+      "2021-11-20": 39
     }
   },
   {
@@ -3851,8 +3848,7 @@
       "2021-12-28": 91,
       "2021-12-24": 19,
       "2021-12-10": 21,
-      "2021-11-29": 888,
-      "2021-11-19": 19
+      "2021-11-29": 888
     }
   },
   {
@@ -3996,8 +3992,7 @@
       "2021-11-23": 16,
       "2021-11-22": 20,
       "2021-11-21": 15,
-      "2021-11-20": 39,
-      "2021-11-19": 31
+      "2021-11-20": 39
     }
   },
   {
@@ -4210,7 +4205,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "89.59%",
+    "uptimeYear": "89.60%",
     "time": 100,
     "timeDay": 44,
     "timeWeek": 88,
@@ -4298,8 +4293,7 @@
       "2021-12-16": 235,
       "2021-12-15": 79,
       "2021-12-11": 27,
-      "2021-11-26": 18,
-      "2021-11-19": 234
+      "2021-11-26": 18
     }
   },
   {
