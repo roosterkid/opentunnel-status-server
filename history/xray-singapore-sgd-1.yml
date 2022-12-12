@@ -1,7 +1,7 @@
 url: https://sgx-3.openv2ray.com/
-status: up
+status: degraded
 code: 200
-responseTime: 2085
-lastUpdated: 2022-12-11T23:13:09.466Z
+responseTime: 12284
+lastUpdated: 2022-12-12T15:44:11.870Z
 startTime: Tue Apr 20 2021 17:07:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
