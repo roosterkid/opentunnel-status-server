@@ -63,7 +63,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: XRAY 🇸🇬 Singapore SGD 1
+     - name: XRAY 🇸🇬 Singapore SGO 2
        url: https://sgx-3.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
        maxResponseTime: 5000
@@ -133,14 +133,14 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGL 1
+     - name: V2RAY 🇸🇬 Singapore SGO 1
        url: https://sgv-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGO 1
+     - name: V2RAY 🇸🇬 Singapore SGO 2
        url: https://sgv-2.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -168,7 +168,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGO 2
+     - name: V2RAY 🇸🇬 Singapore SGO 3
        url: https://sgv-4.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -196,7 +196,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇦🇺 Australia AUL 1
+     - name: V2RAY 🇦🇺 Australia AUO 1
        url: https://auv-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -224,21 +224,21 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇸🇬 Singapore SGO 3
+     - name: V2RAY 🇸🇬 Singapore SGO 5
        url: https://sgv-6.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇳🇱 Netherlands NLB 6
+     - name: V2RAY 🇳🇱 Netherlands NLI 1
        url: https://nlv-6.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇳🇱 Netherlands NLB 1
+     - name: V2RAY 🇳🇱 Netherlands NLI 2
        url: https://nlv-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
@@ -343,7 +343,7 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: TROJAN 🇬🇧 United Kingdom UKO 1
+     - name: TROJAN 🇬🇧 United Kingdom UKM 1
        url: https://ukt-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/trojan.png
        maxResponseTime: 5000
@@ -560,7 +560,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH 🇬🇧 United Kingdom UKO 2
+     - name: SSH 🇬🇧 United Kingdom UKO 1
        url: http://uks-2.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
@@ -574,7 +574,14 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: PPTP 🇸🇬 Singapore SGD 1
+     - name: SSH 🇱🇺 Luxembourg LUF 2
+       url: http://lus-2.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: PPTP 🇸🇬 Singapore SGC 1
        url: http://sgp-1.opensvr.net/
        icon: https://opentunnel.net/assets/img/ppp.png
        maxResponseTime: 5000
@@ -688,6 +695,13 @@ sites:
         - 500
      - name: OVPN 🇨🇦 Canada CAO 1
        url: http://cao-1.opensvr.net:8080/
+       icon: https://opentunnel.net/assets/img/openvpn.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: OVPN 🇳🇱 Netherlands NLL 1
+       url: http://nlo-1.opensvr.net:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
