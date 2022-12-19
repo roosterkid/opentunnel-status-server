@@ -1,7 +1,7 @@
 url: https://hkt-1.opensvr.net/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-12-19T11:49:32.635Z
+status: degraded
+code: 200
+responseTime: 17232
+lastUpdated: 2022-12-19T12:03:00.541Z
 startTime: Tue Nov 16 2021 11:20:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
