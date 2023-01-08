@@ -1,7 +1,7 @@
 url: https://cat-1.opensvr.net/
-status: up
+status: degraded
 code: 200
-responseTime: 325
-lastUpdated: 2023-01-08T11:11:30.195Z
+responseTime: 9292
+lastUpdated: 2023-01-08T12:40:31.963Z
 startTime: Tue Oct 11 2022 14:59:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
