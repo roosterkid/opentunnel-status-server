@@ -1,7 +1,7 @@
-url: http://uks-2.opensvr.net:8080/
+url: http://uks-1.opensvr.net:8080/
 status: up
 code: 400
-responseTime: 167
-lastUpdated: 2023-01-12T23:20:35.124Z
+responseTime: 183
+lastUpdated: 2023-01-13T23:15:13.445Z
 startTime: Wed Jan 19 2022 06:23:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
