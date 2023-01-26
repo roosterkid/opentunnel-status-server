@@ -1,7 +1,7 @@
 url: https://nlx-1.openv2ray.com/
-status: up
+status: degraded
 code: 200
-responseTime: 288
-lastUpdated: 2023-01-25T23:13:04.517Z
+responseTime: 5652
+lastUpdated: 2023-01-26T22:02:34.862Z
 startTime: Tue Apr 20 2021 17:06:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
