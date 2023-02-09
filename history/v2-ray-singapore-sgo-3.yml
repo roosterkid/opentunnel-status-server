@@ -1,7 +1,7 @@
 url: https://sgv-4.openv2ray.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-02-09T04:37:13.324Z
+status: up
+code: 500
+responseTime: 230
+lastUpdated: 2023-02-09T04:48:52.895Z
 startTime: Wed Jun 15 2022 17:05:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
