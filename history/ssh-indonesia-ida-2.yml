@@ -1,7 +1,7 @@
 url: http://ids-4.opensvr.net:8080/
-status: degraded
+status: up
 code: 400
-responseTime: 7186
-lastUpdated: 2023-03-04T13:50:48.277Z
+responseTime: 464
+lastUpdated: 2023-03-04T14:03:52.652Z
 startTime: Thu Oct 07 2021 15:18:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
