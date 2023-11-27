@@ -520,7 +520,7 @@ status-website:
   favicon: https://opentunnel.net/favicon.ico
   logoUrl: https://opentunnel.net/favicon.ico
   name: OpenTunnel.net - Server Status
-  introTitle: "Welcome to our **OpenTunnel.net** server status page. "
+  introTitle: "**OpenTunnel.net** server status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
     - title: OpenTunnel
