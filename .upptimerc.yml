@@ -15,8 +15,8 @@ sites:
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200
-     - name: OpenTunnel.net VIP
-       url: https://vip.opentunnel.net/
+     - name: OpenTunnel.net VIP Panel
+       url: https://client.opentunnel.net/
        icon: https://opentunnel.net/favicon.ico
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -520,7 +520,7 @@ status-website:
   favicon: https://opentunnel.net/favicon.ico
   logoUrl: https://opentunnel.net/favicon.ico
   name: OpenTunnel.net - Server Status
-  introTitle: "**OpenTunnel.net** server status page. "
+  introTitle: "Welcome to our **OpenTunnel.net** server status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
     - title: OpenTunnel
