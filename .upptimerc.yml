@@ -469,6 +469,13 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
+     - name: OVPN 🇸🇬 Singapore SGC 1
+       url: http://sgo-1.optnl.com:8080/
+       icon: https://opentunnel.net/assets/img/openvpn.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
      - name: OVPN 🇺🇸 United States USF 1
        url: http://uso-1.optnl.com:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
@@ -476,7 +483,7 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: OVPN 🇸🇬 Singapore SGC 1
+     - name: OVPN 🇸🇬 Singapore SGC 2
        url: http://sgo-2.optnl.com:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
