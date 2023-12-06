@@ -1,7 +1,7 @@
 url: http://lus-1.optnl.com:8080/
-status: up
-code: 400
-responseTime: 200
-lastUpdated: 2023-12-05T23:19:11.555Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-06T08:20:06.816Z
 startTime: Fri Sep 24 2021 12:32:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
