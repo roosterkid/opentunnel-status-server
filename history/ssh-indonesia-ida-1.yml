@@ -1,7 +1,7 @@
 url: http://ids-2.optnl.com:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-10T09:35:01.566Z
+status: up
+code: 400
+responseTime: 510
+lastUpdated: 2023-12-10T09:56:40.758Z
 startTime: Sun May 30 2021 04:57:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
