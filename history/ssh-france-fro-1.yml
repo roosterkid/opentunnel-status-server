@@ -1,7 +1,7 @@
 url: http://frs-1.optnl.com:8080/
-status: up
-code: 400
-responseTime: 182
-lastUpdated: 2023-12-10T23:18:55.438Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-11T22:00:37.005Z
 startTime: Mon May 03 2021 03:06:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
