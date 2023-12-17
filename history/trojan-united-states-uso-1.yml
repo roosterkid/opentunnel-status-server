@@ -1,7 +1,7 @@
 url: https://ust-2.optnl.com/
-status: up
+status: degraded
 code: 200
-responseTime: 246
-lastUpdated: 2023-12-16T23:19:16.523Z
+responseTime: 5721
+lastUpdated: 2023-12-17T08:11:08.697Z
 startTime: Tue Apr 20 2021 17:07:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
