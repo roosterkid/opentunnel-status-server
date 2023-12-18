@@ -126,13 +126,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: V2RAY 🇦🇺 Australia AUO 1
-       url: https://auv-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/V2Ray-icon.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: V2RAY 🇺🇸 United States USF 2
        url: https://usv-2.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
@@ -156,20 +149,6 @@ sites:
         - 500
      - name: V2RAY 🇳🇱 Netherlands NLI 2
        url: https://nlv-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/V2Ray-icon.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
-     - name: V2RAY 🇩🇪 Germany DEH 1
-       url: https://dev-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/V2Ray-icon.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
-     - name: V2RAY 🇭🇰 Hong Kong HKM 1
-       url: https://hkv-1.openv2ray.com/
        icon: https://opentunnel.net/assets/img/V2Ray-icon.png
        maxResponseTime: 5000
        expectedStatusCodes:
