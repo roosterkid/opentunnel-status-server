@@ -1,7 +1,7 @@
-url: http://uks-2.optnl.com:8080/
+url: http://uks-1.optnl.com:8080/
 status: up
 code: 400
-responseTime: 252
-lastUpdated: 2023-12-18T08:21:36.446Z
+responseTime: 182
+lastUpdated: 2023-12-18T23:18:45.556Z
 startTime: Wed Jan 19 2022 06:23:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
