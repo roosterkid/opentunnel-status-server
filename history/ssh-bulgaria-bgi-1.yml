@@ -1,7 +1,7 @@
 url: http://bgs-1.optnl.com:8080/
-status: up
-code: 400
-responseTime: 368
-lastUpdated: 2023-12-27T03:34:27.238Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-28T00:33:05.008Z
 startTime: Sat Aug 28 2021 05:50:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
