@@ -1,7 +1,7 @@
 url: https://sgt-1.optnl.com/
-status: up
+status: degraded
 code: 200
-responseTime: 570
-lastUpdated: 2024-01-13T23:18:47.298Z
+responseTime: 11604
+lastUpdated: 2024-01-14T15:40:33.292Z
 startTime: Tue Apr 20 2021 17:07:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
