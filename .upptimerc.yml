@@ -35,13 +35,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: XRAY 🇮🇩 Indonesia IDA 1
-       url: https://idx-1.openv2ray.com/
-       icon: https://opentunnel.net/assets/img/xray.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: XRAY 🇸🇬 Singapore SGO 2
        url: https://sgx-3.openv2ray.com/
        icon: https://opentunnel.net/assets/img/xray.png
@@ -415,6 +408,13 @@ sites:
         - 500
      - name: OVPN 🇸🇬 Singapore SGC 2
        url: http://sgo-2.optnl.com:8080/
+       icon: https://opentunnel.net/assets/img/openvpn.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 400
+        - 500
+     - name: OVPN 🇱🇺 Luxembourg LUF 1
+       url: http://luo-1.optnl.com:8080/
        icon: https://opentunnel.net/assets/img/openvpn.png
        maxResponseTime: 5000
        expectedStatusCodes:
