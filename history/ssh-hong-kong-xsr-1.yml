@@ -1,7 +1,7 @@
 url: http://xs-1.optnl.com:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-18T22:20:59.341Z
+status: up
+code: 400
+responseTime: 411
+lastUpdated: 2024-01-18T22:33:48.024Z
 startTime: Thu Jan 11 2024 12:52:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
