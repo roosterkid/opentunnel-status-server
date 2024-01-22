@@ -378,13 +378,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: PPTP 🇫🇷 France FRT 1
-       url: http://frp-1.optnl.com/
-       icon: https://opentunnel.net/assets/img/ppp.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: PPTP 🇺🇸 United States USO 1
        url: http://usp-2.optnl.com/
        icon: https://opentunnel.net/assets/img/ppp.png
