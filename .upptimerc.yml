@@ -182,13 +182,6 @@ sites:
        expectedStatusCodes:
         - 200
         - 500
-     - name: TROJAN 🇬🇧 United Kingdom UKM 1
-       url: https://ukt-1.optnl.com/
-       icon: https://opentunnel.net/assets/img/trojan.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200
-        - 500
      - name: TROJAN 🇬🇧 United Kingdom UKH 2
        url: https://ukt-2.optnl.com/
        icon: https://opentunnel.net/assets/img/trojan.png
@@ -268,20 +261,6 @@ sites:
         - 500
      - name: SSH 🇫🇷 France FRO 2
        url: http://frs-2.optnl.com:8080/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
-     - name: SSH 🇧🇬 Bulgaria BGI 1
-       url: http://bgs-1.optnl.com:8080/
-       icon: https://opentunnel.net/assets/img/bitvise-ssh.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
-     - name: SSH 🇺🇦 Ukraine UAI 1
-       url: http://uas-1.optnl.com:8080/
        icon: https://opentunnel.net/assets/img/bitvise-ssh.png
        maxResponseTime: 5000
        expectedStatusCodes:
