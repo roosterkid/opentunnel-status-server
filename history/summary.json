@@ -116,11 +116,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "95.75%",
+    "uptimeYear": "95.76%",
     "time": 357,
     "timeDay": 675,
     "timeWeek": 710,
-    "timeMonth": 464,
+    "timeMonth": 470,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2024-01-23": 19,
@@ -158,8 +158,7 @@
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   },
   {
@@ -170,7 +169,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.49%",
+    "uptimeWeek": "88.10%",
     "uptimeMonth": "85.64%",
     "uptimeYear": "98.40%",
     "time": 940,
@@ -399,11 +398,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-singapore-sgf-1",
     "status": "up",
-    "uptime": "88.99%",
+    "uptime": "89.00%",
     "uptimeDay": "98.67%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "89.66%",
-    "uptimeYear": "88.99%",
+    "uptimeYear": "89.00%",
     "time": 910,
     "timeDay": 695,
     "timeWeek": 1169,
@@ -516,7 +515,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "85.05%",
+    "uptimeYear": "85.06%",
     "time": 290,
     "timeDay": 209,
     "timeWeek": 178,
@@ -589,8 +588,7 @@
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   },
   {
@@ -729,7 +727,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.00%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.61%",
     "time": 230,
     "timeDay": 211,
     "timeWeek": 757,
@@ -755,8 +753,7 @@
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   },
   {
@@ -960,8 +957,7 @@
       "2023-02-07": 50,
       "2023-02-06": 409,
       "2023-02-05": 20,
-      "2023-01-31": 366,
-      "2023-01-30": 18
+      "2023-01-31": 366
     }
   },
   {
@@ -997,11 +993,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-france-fr-1",
     "status": "up",
-    "uptime": "91.18%",
+    "uptime": "91.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.52%",
     "uptimeMonth": "84.65%",
-    "uptimeYear": "91.18%",
+    "uptimeYear": "91.19%",
     "time": 797,
     "timeDay": 1400,
     "timeWeek": 855,
@@ -1148,11 +1144,11 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-germany-deo-1",
     "status": "up",
-    "uptime": "96.02%",
+    "uptime": "96.03%",
     "uptimeDay": "93.20%",
     "uptimeWeek": "94.62%",
-    "uptimeMonth": "96.02%",
-    "uptimeYear": "96.02%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "96.03%",
     "time": 435,
     "timeDay": 393,
     "timeWeek": 428,
@@ -1553,8 +1549,7 @@
       "2023-02-08": 1440,
       "2023-02-07": 1264,
       "2023-02-04": 82,
-      "2023-02-02": 20,
-      "2023-01-30": 230
+      "2023-02-02": 20
     }
   },
   {
@@ -1563,11 +1558,11 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-kingdom-ukh-2",
     "status": "up",
-    "uptime": "97.41%",
+    "uptime": "97.42%",
     "uptimeDay": "94.24%",
     "uptimeWeek": "95.74%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "97.41%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "97.42%",
     "time": 632,
     "timeDay": 1178,
     "timeWeek": 597,
@@ -1936,7 +1931,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "97.32%",
-    "uptimeYear": "95.72%",
+    "uptimeYear": "95.73%",
     "time": 256,
     "timeDay": 304,
     "timeWeek": 273,
@@ -1967,8 +1962,7 @@
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   },
   {
@@ -2380,17 +2374,18 @@
     "slug": "ssh-indonesia-ida-1",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "76.12%",
-    "uptimeWeek": "93.35%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "71.86%",
+    "uptimeWeek": "92.74%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "98.50%",
     "time": 615,
     "timeDay": 473,
     "timeWeek": 577,
     "timeMonth": 514,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2024-01-29": 344,
+      "2024-01-30": 35,
+      "2024-01-29": 371,
       "2024-01-28": 18,
       "2024-01-27": 15,
       "2024-01-26": 17,
@@ -2508,15 +2503,16 @@
     "uptime": "94.59%",
     "uptimeDay": "47.69%",
     "uptimeWeek": "43.89%",
-    "uptimeMonth": "69.79%",
-    "uptimeYear": "88.80%",
+    "uptimeMonth": "69.65%",
+    "uptimeYear": "88.79%",
     "time": 261,
     "timeDay": 255,
     "timeWeek": 255,
     "timeMonth": 307,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-01-29": 727,
+      "2024-01-30": 35,
+      "2024-01-29": 753,
       "2024-01-28": 834,
       "2024-01-27": 849,
       "2024-01-26": 830,
@@ -2666,18 +2662,19 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-canada-cao-2",
     "status": "down",
-    "uptime": "93.88%",
+    "uptime": "93.87%",
     "uptimeDay": "47.77%",
     "uptimeWeek": "41.54%",
-    "uptimeMonth": "59.13%",
-    "uptimeYear": "95.40%",
+    "uptimeMonth": "58.99%",
+    "uptimeYear": "95.39%",
     "time": 116,
     "timeDay": 107,
     "timeWeek": 109,
     "timeMonth": 106,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-01-29": 726,
+      "2024-01-30": 35,
+      "2024-01-29": 752,
       "2024-01-28": 834,
       "2024-01-27": 1398,
       "2024-01-26": 901,
@@ -2738,11 +2735,11 @@
     "icon": "https://opentunnel.net/assets/img/bitvise-ssh.png",
     "slug": "ssh-tuerkiye-xsr-2",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.94%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "97.15%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "97.16%",
     "time": 1041,
     "timeDay": 356,
     "timeWeek": 329,
@@ -2942,17 +2939,16 @@
     "slug": "pptp-united-states-usf-1",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "99.39%",
     "time": 129,
     "timeDay": 122,
     "timeWeek": 119,
     "timeMonth": 109,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-01-29": 13,
       "2024-01-27": 16,
       "2024-01-26": 21,
       "2024-01-24": 50,
@@ -3185,8 +3181,7 @@
       "2023-02-27": 72,
       "2023-02-06": 505,
       "2023-02-05": 1440,
-      "2023-02-04": 324,
-      "2023-01-30": 17
+      "2023-02-04": 324
     }
   },
   {
@@ -3199,7 +3194,7 @@
     "uptimeDay": "96.18%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 238,
     "timeDay": 234,
     "timeWeek": 248,
@@ -3207,8 +3202,7 @@
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-01-29": 55,
-      "2024-01-16": 21,
-      "2023-01-30": 1127
+      "2024-01-16": 21
     }
   }
 ]
