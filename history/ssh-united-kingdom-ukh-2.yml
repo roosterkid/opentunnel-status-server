@@ -1,7 +1,7 @@
 url: http://uks-2.optnl.com:8080/
-status: degraded
+status: up
 code: 400
-responseTime: 7333
-lastUpdated: 2024-02-19T17:55:18.634Z
+responseTime: 3333
+lastUpdated: 2024-02-19T18:16:49.301Z
 startTime: Thu Jan 11 2024 12:52:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
