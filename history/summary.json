@@ -298,11 +298,11 @@
     "icon": "https://opentunnel.net/assets/img/xray.png",
     "slug": "xray-united-kingdom-ukh-1",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "95.24%",
-    "uptimeYear": "97.17%",
+    "uptimeYear": "97.18%",
     "time": 501,
     "timeDay": 346,
     "timeWeek": 646,
@@ -360,7 +360,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.18%",
     "time": 545,
     "timeDay": 511,
     "timeWeek": 465,
@@ -384,8 +384,7 @@
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   },
   {
@@ -566,7 +565,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "97.26%",
-    "uptimeYear": "91.79%",
+    "uptimeYear": "91.80%",
     "time": 282,
     "timeDay": 127,
     "timeWeek": 400,
@@ -619,8 +618,7 @@
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   },
   {
@@ -629,11 +627,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-singapore-sgf-3",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.04%",
     "uptimeDay": "98.42%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "92.10%",
-    "uptimeYear": "96.03%",
+    "uptimeYear": "96.04%",
     "time": 887,
     "timeDay": 715,
     "timeWeek": 672,
@@ -875,7 +873,7 @@
     "uptimeDay": "98.31%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "94.75%",
-    "uptimeYear": "97.28%",
+    "uptimeYear": "97.29%",
     "time": 575,
     "timeDay": 106,
     "timeWeek": 556,
@@ -939,8 +937,7 @@
       "2023-03-14": 17,
       "2023-03-13": 691,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   },
   {
@@ -997,9 +994,9 @@
     "slug": "v2-ray-france-fr-1",
     "status": "up",
     "uptime": "97.11%",
-    "uptimeDay": "94.08%",
-    "uptimeWeek": "94.64%",
-    "uptimeMonth": "90.25%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "90.24%",
     "uptimeYear": "97.11%",
     "time": 746,
     "timeDay": 416,
@@ -1007,7 +1004,7 @@
     "timeMonth": 680,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2024-03-08": 86,
+      "2024-03-08": 74,
       "2024-03-07": 99,
       "2024-03-06": 63,
       "2024-03-05": 17,
@@ -1027,7 +1024,8 @@
       "2024-02-20": 1078,
       "2024-02-19": 176,
       "2024-02-18": 115,
-      "2024-02-17": 67
+      "2024-02-17": 67,
+      "2024-02-15": 18
     }
   },
   {
@@ -1037,17 +1035,18 @@
     "slug": "trojan-singapore-sgv-1",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "96.81%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "96.31%",
     "uptimeMonth": "90.56%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.97%",
     "time": 1338,
     "timeDay": 1597,
     "timeWeek": 1259,
     "timeMonth": 1255,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2024-03-08": 69,
+      "2024-03-09": 33,
+      "2024-03-08": 86,
       "2024-03-07": 16,
       "2024-03-06": 80,
       "2024-03-05": 41,
@@ -1100,18 +1099,19 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-germany-deo-1",
     "status": "down",
-    "uptime": "96.20%",
-    "uptimeDay": "84.66%",
-    "uptimeWeek": "82.21%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "96.20%",
+    "uptime": "96.14%",
+    "uptimeDay": "81.14%",
+    "uptimeWeek": "81.71%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "96.14%",
     "time": 483,
     "timeDay": 419,
     "timeWeek": 453,
     "timeMonth": 470,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2024-03-08": 219,
+      "2024-03-09": 33,
+      "2024-03-08": 237,
       "2024-03-07": 492,
       "2024-03-06": 288,
       "2024-03-05": 204,
@@ -1140,7 +1140,7 @@
     "time": 876,
     "timeDay": 696,
     "timeWeek": 956,
-    "timeMonth": 795,
+    "timeMonth": 799,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2024-03-08": 31,
@@ -1214,7 +1214,7 @@
     "uptime": "95.82%",
     "uptimeDay": "94.02%",
     "uptimeWeek": "91.38%",
-    "uptimeMonth": "93.22%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "95.82%",
     "time": 748,
     "timeDay": 594,
@@ -2061,8 +2061,8 @@
     "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "38.35%",
-    "uptimeYear": "90.86%",
+    "uptimeMonth": "38.47%",
+    "uptimeYear": "90.87%",
     "time": 295,
     "timeDay": 246,
     "timeWeek": 247,
@@ -2110,8 +2110,7 @@
       "2023-03-14": 36,
       "2023-03-13": 1056,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   },
   {
@@ -2123,8 +2122,8 @@
     "uptime": "92.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.43%",
-    "uptimeYear": "84.90%",
+    "uptimeMonth": "38.54%",
+    "uptimeYear": "84.91%",
     "time": 264,
     "timeDay": 208,
     "timeWeek": 420,
@@ -2205,8 +2204,7 @@
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 1440
+      "2023-03-11": 1440
     }
   },
   {
@@ -2237,8 +2235,7 @@
       "2024-01-04": 458,
       "2023-12-12": 17,
       "2023-12-05": 792,
-      "2023-12-04": 897,
-      "2023-03-10": 17
+      "2023-12-04": 897
     }
   },
   {
@@ -2451,8 +2448,8 @@
     "status": "down",
     "uptime": "96.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.83%",
-    "uptimeMonth": "90.07%",
+    "uptimeWeek": "56.32%",
+    "uptimeMonth": "89.95%",
     "uptimeYear": "98.62%",
     "time": 458,
     "timeDay": 0,
@@ -2460,7 +2457,8 @@
     "timeMonth": 619,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-03-08": 1423,
+      "2024-03-09": 34,
+      "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 48,
@@ -2472,8 +2470,7 @@
       "2023-12-08": 21,
       "2023-12-06": 193,
       "2023-12-05": 44,
-      "2023-04-02": 103,
-      "2023-03-10": 691
+      "2023-04-02": 103
     }
   },
   {
@@ -2649,11 +2646,11 @@
     "icon": "https://opentunnel.net/assets/img/openvpn.png",
     "slug": "ovpn-luxembourg-luf-1",
     "status": "up",
-    "uptime": "97.56%",
+    "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.93%",
-    "uptimeYear": "97.56%",
+    "uptimeYear": "97.57%",
     "time": 246,
     "timeDay": 235,
     "timeWeek": 245,
@@ -2696,8 +2693,7 @@
       "2023-03-14": 465,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
-      "2023-03-11": 1440,
-      "2023-03-10": 49
+      "2023-03-11": 1440
     }
   },
   {
