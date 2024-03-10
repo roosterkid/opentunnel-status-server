@@ -106,8 +106,7 @@
       "2023-03-15": 1413,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 742,
-      "2023-03-11": 18
+      "2023-03-12": 742
     }
   },
   {
@@ -360,7 +359,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "96.45%",
+    "uptimeYear": "96.46%",
     "time": 545,
     "timeDay": 541,
     "timeWeek": 476,
@@ -383,8 +382,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -419,11 +417,11 @@
     "icon": "https://opentunnel.net/assets/img/V2Ray-icon.png",
     "slug": "v2-ray-singapore-sgf-1",
     "status": "up",
-    "uptime": "91.31%",
+    "uptime": "91.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "91.31%",
+    "uptimeYear": "91.32%",
     "time": 784,
     "timeDay": 688,
     "timeWeek": 708,
@@ -565,7 +563,7 @@
     "uptimeDay": "96.00%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "97.16%",
-    "uptimeYear": "92.05%",
+    "uptimeYear": "92.06%",
     "time": 267,
     "timeDay": 187,
     "timeWeek": 387,
@@ -618,8 +616,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -876,7 +873,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "94.83%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 575,
     "timeDay": 289,
     "timeWeek": 580,
@@ -939,8 +936,7 @@
       "2023-03-17": 19,
       "2023-03-14": 17,
       "2023-03-13": 691,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -1038,9 +1034,9 @@
     "slug": "trojan-singapore-sgv-1",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "90.94%",
+    "uptimeDay": "93.68%",
     "uptimeWeek": "96.12%",
-    "uptimeMonth": "93.55%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "99.00%",
     "time": 1339,
     "timeDay": 1183,
@@ -1102,18 +1098,18 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-germany-deo-1",
     "status": "up",
-    "uptime": "96.26%",
-    "uptimeDay": "79.70%",
-    "uptimeWeek": "80.66%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "96.26%",
+    "uptime": "96.24%",
+    "uptimeDay": "83.24%",
+    "uptimeWeek": "80.77%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "96.24%",
     "time": 480,
     "timeDay": 400,
     "timeWeek": 443,
     "timeMonth": 466,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-03-09": 287,
+      "2024-03-09": 276,
       "2024-03-08": 237,
       "2024-03-07": 492,
       "2024-03-06": 288,
@@ -1124,7 +1120,7 @@
       "2024-03-01": 257,
       "2024-02-29": 281,
       "2024-02-28": 241,
-      "2024-02-27": 273
+      "2024-02-27": 304
     }
   },
   {
@@ -1133,18 +1129,18 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-states-usf-1",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "96.25%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.56%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "98.94%",
     "time": 860,
     "timeDay": 240,
     "timeWeek": 846,
     "timeMonth": 788,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-03-09": 31,
+      "2024-03-09": 20,
       "2024-03-08": 31,
       "2024-03-07": 60,
       "2024-03-06": 51,
@@ -1203,7 +1199,8 @@
       "2023-12-11": 20,
       "2023-12-10": 459,
       "2023-12-09": 788,
-      "2023-12-08": 296
+      "2023-12-08": 622,
+      "2023-12-07": 563
     }
   },
   {
@@ -1212,11 +1209,11 @@
     "icon": "https://opentunnel.net/assets/img/trojan.png",
     "slug": "trojan-united-kingdom-ukh-2",
     "status": "up",
-    "uptime": "95.89%",
+    "uptime": "95.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.72%",
     "uptimeMonth": "93.40%",
-    "uptimeYear": "95.89%",
+    "uptimeYear": "95.90%",
     "time": 745,
     "timeDay": 346,
     "timeWeek": 696,
@@ -1591,8 +1588,7 @@
       "2023-03-22": 1440,
       "2023-03-21": 650,
       "2023-03-17": 22,
-      "2023-03-15": 19,
-      "2023-03-11": 18
+      "2023-03-15": 19
     }
   },
   {
@@ -2062,8 +2058,8 @@
     "uptime": "92.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "41.67%",
-    "uptimeYear": "91.13%",
+    "uptimeMonth": "41.76%",
+    "uptimeYear": "91.14%",
     "time": 294,
     "timeDay": 188,
     "timeWeek": 240,
@@ -2110,8 +2106,7 @@
       "2023-03-29": 44,
       "2023-03-14": 36,
       "2023-03-13": 1056,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -2123,8 +2118,8 @@
     "uptime": "92.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.75%",
-    "uptimeYear": "85.17%",
+    "uptimeMonth": "41.84%",
+    "uptimeYear": "85.18%",
     "time": 264,
     "timeDay": 252,
     "timeWeek": 378,
@@ -2204,8 +2199,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -2373,8 +2367,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 87
+      "2023-03-12": 1440
     }
   },
   {
@@ -2448,10 +2441,10 @@
     "icon": "https://opentunnel.net/assets/img/ppp.png",
     "slug": "pptp-singapore-sgc-1",
     "status": "down",
-    "uptime": "96.77%",
+    "uptime": "96.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.40%",
-    "uptimeMonth": "86.75%",
+    "uptimeWeek": "42.01%",
+    "uptimeMonth": "86.66%",
     "uptimeYear": "98.62%",
     "time": 458,
     "timeDay": 0,
@@ -2459,7 +2452,8 @@
     "timeMonth": 619,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-03-09": 1438,
+      "2024-03-10": 37,
+      "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -2484,7 +2478,7 @@
     "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
-    "uptimeMonth": "95.34%",
+    "uptimeMonth": "95.43%",
     "uptimeYear": "98.53%",
     "time": 137,
     "timeDay": 86,
@@ -2620,7 +2614,7 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.57%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.54%",
     "time": 469,
@@ -2694,8 +2688,7 @@
       "2023-12-02": 406,
       "2023-03-14": 465,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
