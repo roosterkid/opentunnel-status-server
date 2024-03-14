@@ -1,7 +1,7 @@
 url: http://cas-1.optnl.com:8080/
-status: up
-code: 400
-responseTime: 171
-lastUpdated: 2024-03-13T23:17:41.062Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-03-14T22:10:30.321Z
 startTime: Sat May 22 2021 13:16:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
